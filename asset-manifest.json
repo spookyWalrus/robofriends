@@ -1,26 +1,15 @@
 {
   "files": {
-    "main.css": "/robofriends/static/css/main.2005ebb3.chunk.css",
-    "main.js": "/robofriends/static/js/main.b6f808e4.chunk.js",
-    "main.js.map": "/robofriends/static/js/main.b6f808e4.chunk.js.map",
-    "runtime-main.js": "/robofriends/static/js/runtime-main.a644d0bf.js",
-    "runtime-main.js.map": "/robofriends/static/js/runtime-main.a644d0bf.js.map",
-    "static/css/2.fe359a49.chunk.css": "/robofriends/static/css/2.fe359a49.chunk.css",
-    "static/js/2.8eb7bed4.chunk.js": "/robofriends/static/js/2.8eb7bed4.chunk.js",
-    "static/js/2.8eb7bed4.chunk.js.map": "/robofriends/static/js/2.8eb7bed4.chunk.js.map",
-    "static/js/3.a1796986.chunk.js": "/robofriends/static/js/3.a1796986.chunk.js",
-    "static/js/3.a1796986.chunk.js.map": "/robofriends/static/js/3.a1796986.chunk.js.map",
-    "index.html": "/robofriends/index.html",
-    "static/css/2.fe359a49.chunk.css.map": "/robofriends/static/css/2.fe359a49.chunk.css.map",
-    "static/css/main.2005ebb3.chunk.css.map": "/robofriends/static/css/main.2005ebb3.chunk.css.map",
-    "static/js/2.8eb7bed4.chunk.js.LICENSE.txt": "/robofriends/static/js/2.8eb7bed4.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/robofriends/static/media/moonhouse.ae407e48.woff"
+    "main.css": "/spookyWalrus/robofriends.git/static/css/main.c71e0146.css",
+    "main.js": "/spookyWalrus/robofriends.git/static/js/main.4b2c99d9.js",
+    "static/media/moonhouse.woff": "/spookyWalrus/robofriends.git/static/media/moonhouse.ae407e4843286a2860b3.woff",
+    "static/media/moonhouse.woff2": "/spookyWalrus/robofriends.git/static/media/moonhouse.5d576760fbe5c64d68f2.woff2",
+    "index.html": "/spookyWalrus/robofriends.git/index.html",
+    "main.c71e0146.css.map": "/spookyWalrus/robofriends.git/static/css/main.c71e0146.css.map",
+    "main.4b2c99d9.js.map": "/spookyWalrus/robofriends.git/static/js/main.4b2c99d9.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.a644d0bf.js",
-    "static/css/2.fe359a49.chunk.css",
-    "static/js/2.8eb7bed4.chunk.js",
-    "static/css/main.2005ebb3.chunk.css",
-    "static/js/main.b6f808e4.chunk.js"
+    "static/css/main.c71e0146.css",
+    "static/js/main.4b2c99d9.js"
   ]
 }
